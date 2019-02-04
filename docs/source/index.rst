@@ -9,3 +9,21 @@ git指南
 .. toctree::
    :maxdepth: 2
    :caption: 目录:
+
+   preface
+   basic
+   advanced
+   authentication
+
+
+１．版本管理概念　git和svn比较
+２．git相关操作　本地操作/远程操作/钩子/如何自建服务器/提交文件格式/branches and tags/head/忽略文件
+6. github上如何实现递归克隆
+５．持续集成CL和git的结合
+4. git 比较工具
+３．vscode　git相关操作
+
+
+生成图结构
+
+一些专业术语，比如baseline，repository，working copy，commit，change，change list, check-out，update，commit，merge
