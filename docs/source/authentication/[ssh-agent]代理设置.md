@@ -7,11 +7,11 @@
 
 1. 启动`ssh-agent`
 
-    $ eval "$(ssh-agent -s)"
-    Agent pid 7804
+        $ eval "$(ssh-agent -s)"
+        Agent pid 7804
 
 2. 添加`ssh`私钥
 
-    $ ssh-add ~/.ssh/github_id_rsa
-    Enter passphrase for /home/zj/.ssh/github_id_rsa: 
-    Identity added: /home/zj/.ssh/github_id_rsa (/home/zj/.ssh/github_id_rsa)
+        $ ssh-add ~/.ssh/github_id_rsa
+        Enter passphrase for /home/zj/.ssh/github_id_rsa: 
+        Identity added: /home/zj/.ssh/github_id_rsa (/home/zj/.ssh/github_id_rsa)
