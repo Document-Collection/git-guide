@@ -11,3 +11,4 @@
    authentication/[ssh]生成密钥
    authentication/[github][gitee]SSH公钥设置
    authentication/[ssh-agent]代理设置
+   authentication/[ssh][http]传输方式切换
