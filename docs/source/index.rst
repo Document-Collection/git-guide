@@ -14,6 +14,7 @@ git指南
    basic
    advanced
    authentication
+   remote
 
 
 １．版本管理概念　git和svn比较
