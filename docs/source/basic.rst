@@ -11,3 +11,4 @@
    basic/获取git仓库
    basic/提交新版本
    basic/标签设置
+   basic/子模块
