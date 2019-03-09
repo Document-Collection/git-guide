@@ -8,3 +8,4 @@
 
    advanced/绘制图
    advanced/工作目录和裸仓库分离
+   advanced/自建服务器
