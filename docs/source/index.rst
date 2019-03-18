@@ -13,6 +13,8 @@ git指南
    preface
    basic
    advanced
+
+   message-guideline
    authentication
    remote
 
