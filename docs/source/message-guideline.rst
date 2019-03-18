@@ -10,4 +10,4 @@
 
    message-guideline/提交信息规范
    message-guideline/Angular消息准则
-   message-guideline/Conventional Commits
+   message-guideline/常规提交规范

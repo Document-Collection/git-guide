@@ -57,7 +57,9 @@
 
 ### `Breaking changes`
 
-所有中断更改都必须在页脚中作为中断更改块提到，以`BREAKING CHANGE`:开头，后跟一个空格或者两个换行符，其余的信息就是对此次修改的描述，修改的理由和修改注释
+不兼容修改指的是本次提交修改了不兼容之前版本的API或者环境变量
+
+所有不兼容修改都必须在页脚中作为中断更改块提到，以`BREAKING CHANGE`:开头，后跟一个空格或者两个换行符，其余的信息就是对此次修改的描述，修改的理由和修改注释
 
     BREAKING CHANGE: isolate scope bindings definition has changed and
         the inject option for the directive controller injection was removed.
