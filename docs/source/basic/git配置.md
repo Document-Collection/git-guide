@@ -38,18 +38,24 @@
     git config --global user.name user-name
     git config --global user.email email-address
 
+*设置节点为`user`，设置属性为`name`和`email`*
+
 ### 设置文本编辑器
 
 `git`使用系统默认的编辑器，可以设置指定编辑器
 
-    git config --global core.editors vim
+    # 未设置
+    git config --global core.editor vim
+    # 已设置，先删除再添加
+    git config --global --unset core.editor
+    git config --global core.editor vim
 
 ### 移除变量
 
     # 移除单个变量
-    git config --global --unset key_name
+    git config --global --unset 属性名
     # 移除所有变量
-    git config --global --unset-all
+    git config --global --unset-all 属性名
 
 ## 配置文件地址
 
@@ -65,7 +71,7 @@
 
 ### 编写格式
 
-所有配置文件的编写格式都一样，可参考仓库级别的`config`文件
+所有配置文件的编写格式都一样，可参考仓库级别的`config`文件，按照*section和key*进行配置
 
     # 仓库级别
     $ cat config 
