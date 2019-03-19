@@ -4,3 +4,5 @@
 [![Documentation Status](https://readthedocs.org/projects/zj-git-guide/badge/?version=latest)](https://zj-git-guide.readthedocs.io/zh_CN/latest/?badge=latest)
 
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
