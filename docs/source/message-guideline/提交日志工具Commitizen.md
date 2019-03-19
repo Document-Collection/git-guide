@@ -27,6 +27,8 @@
 
 通过提示信息辅助你完成标准化的提交日志
 
+**`git-cz`支持`git commit`所有的参数设置**
+
 ## 安装`Adapter`
 
 `Commitizen`支持多种不同的提交规范，可以安装和配置不同的适配器实现
@@ -44,7 +46,9 @@
 
     # 安装
     commitizen init cz-conventional-changelog --save-dev --save-exact
-    # 配置，在package.json中添加
+
+安装完成后除了下载`cz-conventional-changelog`包外还在`package.json`中添加了
+
     ...
     "config": {
         "commitizen": {
@@ -56,4 +60,4 @@
 
 在`README`中添加`commitizen`友好徽章
 
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
