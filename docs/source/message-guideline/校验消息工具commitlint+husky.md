@@ -103,6 +103,12 @@
     1 file changed, 1 insertion(+)
     create mode 100644 .gitignore
 
+### 禁用`husky`
+
+某一次提交想要禁用`husky`，可以添加参数`--no-verify`
+
+    $ git commit --no-verify -m "xxx"
+
 ## `CI`设置
 
 以`Travis CI`为例
