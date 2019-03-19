@@ -13,8 +13,7 @@
 
 ## 安装`Commitizen`
 
-全局安装[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-
+    # 全局安装
     $ npm install -g commitizen
 
 ### 测试
@@ -58,5 +57,3 @@
 在`README`中添加`commitizen`友好徽章
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-
-
