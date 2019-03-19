@@ -1,5 +1,5 @@
 
-# 常规提交规范
+# Conventional提交规范
 
 [Conventional Commits](https://www.conventionalcommits.org)(约定式提交)脱胎于`Angular`提交信息准则，提供了更加通用、简洁和灵活的提交规范
 

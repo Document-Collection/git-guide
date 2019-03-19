@@ -1,5 +1,5 @@
 
-# 提交日志工具Commitizen
+# 提交信息交互工具Commitizen
 
 [Commitizen](http://commitizen.github.io/cz-cli/)是一个提交日志工具，辅助开发者使用提交规则
 

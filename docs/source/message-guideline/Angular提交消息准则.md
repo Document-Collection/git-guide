@@ -1,5 +1,5 @@
 
-# Angular提交信息准则
+# Angular消息准则
 
 目前最受开发人员肯定的规范是前端框架`Angular`提出的[提交消息准则](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines)
 
