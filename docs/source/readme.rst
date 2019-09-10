@@ -10,3 +10,4 @@ README
    readme/引言
    readme/[译]规范
    readme/readme生成器
+   readme/自定义徽章
