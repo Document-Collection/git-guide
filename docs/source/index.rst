@@ -18,7 +18,7 @@ git指南
    message-guideline
    authentication
    remote
-   github
+   readme
 
 
 １．版本管理概念　git和svn比较
