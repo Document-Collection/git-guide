@@ -9,7 +9,7 @@
 
 > 基于Numpy的深度学习库
 
-基于Numpy的深度学习实现，模块化设计保证模型的轻松实现，适用于深度学习初级研究人员的入门
+基于`Numpy`的深度学习实现，模块化设计保证模型的轻松实现，适用于深度学习初级研究人员的入门
 
 ## 内容列表
 
@@ -26,11 +26,11 @@
 
 ## 背景
 
-系统性的学习卷积神经网络也快半年了，使用pytorch等库不能很好的深入理解实现，所以打算从头完成一个深度学习框架。最开始会参考cs231n的作业，之后会以计算图的方式实现。希望这个项目能够切实提高自己的编程能力，同时也能够帮助到其他人
+系统性的学习卷积神经网络也快半年了，使用`pytorch`等库不能很好的深入理解实现，所以打算从头完成一个深度学习框架。最开始的实现会参考`cs231n`的作业，之后会以计算图的方式实现。希望这个项目能够切实提高自己的编程能力，同时也能够帮助到其他人
 
 ## 徽章
 
-如果你使用了PyNet，请添加以下徽章
+如果你使用了`PyNet`，请添加以下徽章
 
 [![pynet](https://img.shields.io/badge/pynet-ok-brightgreen)](https://github.com/zjZSTU/PyNet)
 
@@ -42,11 +42,11 @@ Markdown格式代码如下：
 
 ## 安装
 
-PyNet需要以下必备条件
+`PyNet`需要以下必备条件
 
-* python3.x
-* numpy
-* opencv3.x
+* `python3.x`
+* `numpy`
+* `opencv3.x`
 
 ## 用法
 
@@ -54,20 +54,20 @@ PyNet需要以下必备条件
 
 已实现网络模型（位于[pynet/models](https://github.com/zjZSTU/PyNet/tree/master/pynet/models)文件夹）：
 
-* 2层神经网络
-* 3层神经网络
-* LeNet-5
-* AlexNet
-* NIN
+* `2`层神经网络
+* `3`层神经网络
+* `LeNet-5`
+* `AlexNet`
+* `NIN`
 
 已实现网络层（位于[pynet/nn](https://github.com/zjZSTU/PyNet/tree/master/pynet/nn)文件夹）：
 
 * 卷积层
 * 全连接层
 * 最大池化层
-* ReLU
+* `ReLU`
 * 随机失活
-* Softmax
+* `Softmax`
 * 交叉熵损失
 * 全局平均池化层
 
@@ -96,7 +96,7 @@ PyNet需要以下必备条件
 
 注意:
 
-* git提交请遵守[Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.4/)
+* `git`提交请遵守[Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.4/)
 * 如果进行版本化，请遵守[Semantic Versioning 2.0.0](https://semver.org)规范
 * 如果修改README，请遵守[standard-readme](https://github.com/RichardLitt/standard-readme)规范
 

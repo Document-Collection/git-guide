@@ -25,7 +25,7 @@ Implementation of deep learning based on numpy, modular design guarantees easy i
 
 ## Background
 
-Systematic learning convolution neural network has been nearly half a year.Using librarys such as pytorch can't understand the implementation in depth. So I plan to complete a deep learning framework from scratch.Initially, we will refer to the cs231n operation, and then we will implement it in the form of computational graphs. I hope this project can improve my programming ability and help others at the same time. 
+Systematic learning convolution neural network has been nearly half a year.Using librarys such as pytorch can't understand the implementation in depth. So I plan to complete a deep learning framework from scratch.The initial implementation will refer to the operation of cs231n, and then we will implement it in the form of computational graphs. I hope this project can improve my programming ability and help others at the same time. 
 
 ## Badge
 
@@ -74,7 +74,7 @@ Realized Network Layer（Located in [pynet/nn](https://github.com/zjZSTU/PyNet/t
 
 ## CHANGELOG
 
-see the [CHANGELOG](./CHNAGELOG) on this repository.
+see the [CHANGELOG](./CHANGELOG) on this repository.
 
 ## TODO
 
