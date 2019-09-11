@@ -91,6 +91,11 @@ Thank you for your participation.
 
 [![](https://avatars3.githubusercontent.com/u/13742735?s=460&v=4)](https://github.com/zjZSTU)
 
+Refer to the following Library
+
+* [cs231n](http://cs231n.github.io/)
+* [PyTorch](https://pytorch.org/)
+
 ## Contributing
 
 Anyone's participation is welcome! Open an [issue](https://github.com/zjZSTU/PyNet/issues) or submit PRs.

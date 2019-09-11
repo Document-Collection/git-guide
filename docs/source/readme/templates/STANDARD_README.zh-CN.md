@@ -90,6 +90,11 @@ Markdown格式代码如下：
 
 [![](https://avatars3.githubusercontent.com/u/13742735?s=460&v=4)](https://github.com/zjZSTU)
 
+参考以下库
+
+* [cs231n](http://cs231n.github.io/)
+* [PyTorch](https://pytorch.org/)
+
 ## 参与贡献方式
 
 欢迎任何人的参与！打开[issue](https://github.com/zjZSTU/PyNet/issues)或提交合并请求。
