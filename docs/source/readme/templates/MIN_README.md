@@ -1,5 +1,7 @@
 # PyNet
 
+[中文版本（Chinese version）](./MIN_README.zh-CN.md)
+
 > Numpy-based deep learning library
 
 ## Table of Contents

@@ -1,5 +1,7 @@
 # PyNet
 
+[英文版本（English version）](./MIN_README.md)
+
 > 基于numpy的深度学习库
 
 ## 内容列表
