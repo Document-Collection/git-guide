@@ -52,6 +52,8 @@ Markdown格式代码如下：
 
 参考[example](https://github.com/zjZSTU/PyNet/tree/master/examples)文件夹下的示例代码
 
+完整版本参考[releases](https://github.com/zjZSTU/PyNet/releases)
+
 已实现网络模型（位于[pynet/models](https://github.com/zjZSTU/PyNet/tree/master/pynet/models)文件夹）：
 
 * `2`层神经网络

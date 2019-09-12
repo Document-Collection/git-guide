@@ -51,7 +51,7 @@ PyNet need the following prerequisites
 
 Refer to the sample code under the [example](https://github.com/zjZSTU/PyNet/tree/master/examples) folder
 
-### 
+Full version reference [releases](https://github.com/zjZSTU/PyNet/releases)
 
 Realized Network Model（Located in [pynet/models](https://github.com/zjZSTU/PyNet/tree/master/pynet/models) folder）：
 
