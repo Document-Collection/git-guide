@@ -13,11 +13,9 @@ git指南
    preface
    basic
    advanced
-   branchs
 
    message-guideline
    authentication
-   remote
    readme
 
 
