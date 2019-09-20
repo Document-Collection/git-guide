@@ -15,5 +15,6 @@
 
    advanced/本地分支操作
    advanced/远程分支操作
+   advanced/拉取指定远程分支到本地
 
    advanced/Failed to lock refs
