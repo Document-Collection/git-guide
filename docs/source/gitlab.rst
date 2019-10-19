@@ -9,3 +9,4 @@ gitlab相关
    :caption: 目录:
 
    gitlab/安装
+   gitlab/使用
