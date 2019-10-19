@@ -14,6 +14,8 @@ git指南
    basic
    advanced
 
+   gitlab
+
    message-guideline
    authentication
    readme
