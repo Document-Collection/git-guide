@@ -56,7 +56,7 @@ listen "127.0.0.1:8080", :tcp_nopush => true
 ```
 ##external_url 'http://gitlab.example.com'
 external_url 'http://localhost:8800'
-unicorn['port'] = 8800
+unicorn['port'] = 8801
 ```
 
 重新启动`GitLab`
@@ -64,6 +64,14 @@ unicorn['port'] = 8800
 ```
 # gitlab-ctl reconfigure
 # gitlab-ctl restart
+```
+
+查询配置文件`/var/opt/gitlab/gitlab-rails/etc/unicorn.rb`
+
+```
+# cat unicorn.rb | grep listen
+# What ports/sockets to listen on, and what options for them.
+listen "127.0.0.1:8801", :tcp_nopush => true
 ```
 
 测试端口号
@@ -78,4 +86,6 @@ $ curl localhost:8800
   <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
 ...
 ...
+# curl localhost:8801
+<html><body>You are being <a href="http://localhost:8801/users/sign_in">redirected</a>.</body></html>
 ```
