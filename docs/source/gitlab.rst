@@ -11,3 +11,4 @@ gitlab相关
    gitlab/安装
    gitlab/使用
    gitlab/GitLab导致8080端口冲突
+   gitlab/[nginx]反向代理
