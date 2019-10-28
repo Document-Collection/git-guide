@@ -14,3 +14,4 @@
    authentication/[ssh][http]传输方式切换
 
    authentication/ssh: connect to host github.com port 22: Connection timed out
+   authentication/Bad owner or permissions on .ssh config
