@@ -5,18 +5,12 @@
 
 ## 预配置
 
-首先需要安装`NodeJS`，参考：[nodeJS安装](https://hexo-guide.readthedocs.io/zh_CN/latest/node/nodeJS%E5%AE%89%E8%A3%85.html)
-
-其次需要对仓库进行`Node`初始化，生成`package.json`文件
-
-    $ npm init -y
+需要安装`NodeJS`，参考：[nodeJS安装](https://hexo-guide.readthedocs.io/zh_CN/latest/node/nodeJS%E5%AE%89%E8%A3%85.html)
 
 ## 安装`Commitizen`
 
     # 全局安装
     $ npm install -g commitizen
-    # 本地安装
-    $ npm install --save commitizen
 
 ## 安装`Adapter`
 
@@ -24,7 +18,7 @@
 
 以`Conventional Commit`规范为例
 
-### 全局配置
+### 全局配置（推荐）
 
     # 安装
     $ npm install -g cz-conventional-changelog
