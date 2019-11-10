@@ -17,12 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'sphinx_github_readthedocs'
+project = 'git-guide'
 copyright = '2019, zhujian'
 author = 'zhujian'
 
 # The full version, including alpha/beta/rc tags
-release = '2.0.0'
+release = '1.0.0'
 
 
 # -- General configuration ---------------------------------------------------
@@ -31,8 +31,7 @@ release = '2.0.0'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = ['recommonmark',
-            "sphinx_rtd_theme",
-            'sphinx.ext.mathjax']
+            "sphinx_rtd_theme"]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
