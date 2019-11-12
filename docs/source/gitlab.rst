@@ -13,3 +13,4 @@ gitlab相关
    gitlab/GitLab导致8080端口冲突
    gitlab/[nginx]反向代理
    gitlab/[Docker]gitlab使用
+   gitlab/[Webhook]不允许本地连接
