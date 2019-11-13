@@ -15,3 +15,4 @@ gitlab相关
    gitlab/[Docker]gitlab使用
    gitlab/[Webhook]不允许本地连接
    gitlab/重置密码
+   gitlab/受保护分支
