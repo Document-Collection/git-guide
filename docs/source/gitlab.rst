@@ -14,3 +14,4 @@ gitlab相关
    gitlab/[nginx]反向代理
    gitlab/[Docker]gitlab使用
    gitlab/[Webhook]不允许本地连接
+   gitlab/重置密码
