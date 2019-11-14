@@ -26,3 +26,7 @@
 或文件夹
 
     git clone https://github.com/zjZSTU/git-guide.git guide
+
+下载并绑定指定分支
+    
+    git clone --branch [标签名/分支名] [git地址]
