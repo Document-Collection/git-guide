@@ -1,7 +1,7 @@
 
 
 
-gitlab相关
+GitLab
 ==============
 
 .. toctree::

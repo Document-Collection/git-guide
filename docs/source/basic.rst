@@ -12,3 +12,5 @@
    basic/提交新版本
    basic/标签设置
    basic/子模块
+   basic/[github][gitee]SSH公钥设置
+   basic/[ssh][http]传输方式切换
