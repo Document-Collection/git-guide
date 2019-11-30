@@ -1,5 +1,5 @@
 
-# [Webhook]不允许本地连接
+# [GitLab][Webhook]不允许本地连接
 
 在`gitlab`仓库中设置`Webhook`，使用本地连接出现如下错误:
 

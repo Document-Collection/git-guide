@@ -14,7 +14,9 @@ git指南
    basic
    advanced
 
-   gitlab
+   remote
 
    message-guideline
    readme
+
+   
