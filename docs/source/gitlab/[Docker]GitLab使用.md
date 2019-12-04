@@ -19,8 +19,8 @@
 
 ```
 $ docker run --detach \
-  --publish 192.168.0.144:7010:7010 \
-  --publish 192.168.0.144:7020:22 \
+  --publish 7010:7010 \
+  --publish 7020:22 \
   --name gitlab \
   --restart always \
   --volume /srv/gitlab/config:/etc/gitlab \
@@ -49,7 +49,7 @@ $ docker exec -it COMTAINER_ID bash
 修改配置文件`/etc/gitlab/gitlab.rb`，添加`external_url`属性
 
 ```
-external_url 'http://192.168.0.144:7010'          # 当前访问地址
+external_url 'http://IP_ADDRESS:7010'          # 指定IP地址，设置访问地址
 nginx['listen_port'] = 7010
 gitlab_rails['gitlab_shell_ssh_port'] = 7020
 ```
