@@ -16,5 +16,6 @@
    gitlab/[GitLab][Webhook]不允许本地连接
    gitlab/[GitLab]重置密码
    gitlab/[GitLab]受保护分支
+   gitlab/unicorn出错
 
    github/[GitHub]版本发布
