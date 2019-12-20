@@ -65,17 +65,19 @@ nav:
             - 'unicorn出错': './platform/unicorn出错.md'
         - 'GitHub':
             - '版本发布': './platform/[GitHub]版本发布.md'
-    - '提交准则':
-        - '引言': './message/引言.md'
-        - 'Angular提交信息规范': './message/Angular提交信息规范.md'
-        - 'Conventional提交规范': './message/Conventional提交规范.md'
-        - '[gitmessage]提交模板': './message/[gitmessage]提交模板.md'
-        - '[Commitizen]信息交互工具': './message/[Commitizen]信息交互工具.md'
-        - '[CommitLint][Husky]消息校验工具': './message/[CommitLint][Husky]消息校验工具.md'
-        - '[SEMVER]语义版本规范': './message/[SEMVER]语义版本规范.md'
-        - '[standard-version]版本自动化及CHANGELOG生成': './message/[standard-version]版本自动化及CHANGELOG生成.md'
-    - 'README':
-        - '引言': './readme/引言.md'
-        - '[译]规范': './readme/[译]规范.md'
-        - 'readme生成器': './readme/readme生成器.md'
-        - '自定义徽章': './readme/自定义徽章.md'
+    - 规范:
+        - '消息提交准则':
+            - '引言': './message/引言.md'
+            - 'Angular提交信息规范': './message/Angular提交信息规范.md'
+            - 'Conventional提交规范': './message/Conventional提交规范.md'
+            - '[gitmessage]提交模板': './message/[gitmessage]提交模板.md'
+            - '[Commitizen]信息交互工具': './message/[Commitizen]信息交互工具.md'
+            - '[CommitLint][Husky]消息校验工具': './message/[CommitLint][Husky]消息校验工具.md'
+        - '版本化':
+            - '[SEMVER]语义版本规范': './version/[SEMVER]语义版本规范.md'
+            - '[standard-version]版本自动化及CHANGELOG生成': './version/[standard-version]版本自动化及CHANGELOG生成.md'
+        - 'README':
+            - '引言': './readme/引言.md'
+            - '[译]规范': './readme/[译]规范.md'
+            - 'readme生成器': './readme/readme生成器.md'
+            - '自定义徽章': './readme/自定义徽章.md'
