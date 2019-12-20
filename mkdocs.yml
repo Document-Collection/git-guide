@@ -1,0 +1,81 @@
+# 站点名称
+site_name: 'Git Guide'
+# 仓库链接
+repo_url: https://github.com/zjZSTU/git-guide.git
+# 作者
+site_author: 'zhujian'
+# 版权信息
+copyright: '2019, zhujian'
+# 源文件目录
+docs_dir: 'docs'
+# 生成静态文件目录
+site_dir: 'site'
+# 额外信息
+extra:
+    # 版本号
+    version: 0.2.0
+# 主题
+theme: 
+    # name: 'readthedocs'
+    # name: 'mkdocs'
+    name: 'material'
+# markdown扩展
+markdown_extensions:
+    - toc:
+        permalink: true
+    - pymdownx.arithmatex
+
+extra_javascript:
+    - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+# 导航
+nav:
+    - Home: index.md
+    - get started:
+        - '关于版本控制': './get-started/关于版本控制.md'
+        - '关于Git': './get-started/关于git.md'
+        - '帮助': './get-started/帮助.md'
+        - 'Git配置': './get-started/git配置.md'
+        - '获取Git仓库': './get-started/获取git仓库.md'
+        - '提交新版本': './get-started/提交新版本.md'
+        - '标签设置': './get-started/标签设置.md'
+        - '子模块': './get-started/子模块.md'
+        - '[github][gitee]SSH公钥设置': './get-started/[github][gitee]SSH公钥设置.md'
+        - '[ssh][http]传输方式切换': './get-started/[ssh][http]传输方式切换.md'
+    - advanced:
+        - '绘制分支图': './advanced/绘制分支图.md'
+        - '创建裸仓库': './advanced/创建裸仓库.md'
+        - '工作目录和裸仓库分离': './advanced/工作目录和裸仓库分离.md'
+        - '自建服务器': './advanced/自建服务器.md'
+        - '推送到多个远程托管服务器': './advanced/推送到多个远程托管服务器.md'
+        - '本地分支操作': './advanced/本地分支操作.md'
+        - '远程分支操作': './advanced/远程分支操作.md'
+        - '拉取指定远程分支到本地': './advanced/拉取指定远程分支到本地.md'
+        - 'Failed to lock refs': './advanced/Failed to lock refs.md'
+    - '托管平台':
+        - 'GitLab':
+            - '安装': './platform/[GitLab]安装.md'
+            - '命令行操作': './platform/[GitLab]命令行操作.md'
+            - '[Docker]GitLab使用': './platform/[Docker]GitLab使用.md'
+
+            - 'GitLab导致8080端口冲突': './platform/GitLab导致8080端口冲突.md'
+            - '[GitLab][nginx]反向代理': './platform/[GitLab][nginx]反向代理.md'
+            - '[GitLab][Webhook]不允许本地连接': './platform/[GitLab][Webhook]不允许本地连接.md'
+            - '[GitLab]重置密码': './platform/[GitLab]重置密码.md'
+            - '[GitLab]受保护分支': './platform/[GitLab]受保护分支.md'
+            - 'unicorn出错': './platform/unicorn出错.md'
+        - 'GitHub':
+            - '版本发布': './platform/[GitHub]版本发布.md'
+    - '提交准则':
+        - '引言': './message/引言.md'
+        - 'Angular提交信息规范': './message/Angular提交信息规范.md'
+        - 'Conventional提交规范': './message/Conventional提交规范.md'
+        - '[gitmessage]提交模板': './message/[gitmessage]提交模板.md'
+        - '[Commitizen]信息交互工具': './message/[Commitizen]信息交互工具.md'
+        - '[CommitLint][Husky]消息校验工具': './message/[CommitLint][Husky]消息校验工具.md'
+        - '[SEMVER]语义版本规范': './message/[SEMVER]语义版本规范.md'
+        - '[standard-version]版本自动化及CHANGELOG生成': './message/[standard-version]版本自动化及CHANGELOG生成.md'
+    - 'README':
+        - '引言': './readme/引言.md'
+        - '[译]规范': './readme/[译]规范.md'
+        - 'readme生成器': './readme/readme生成器.md'
+        - '自定义徽章': './readme/自定义徽章.md'
