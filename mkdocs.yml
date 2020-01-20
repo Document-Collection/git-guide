@@ -41,6 +41,7 @@ nav:
         - '子模块': './get-started/子模块.md'
         - '[github][gitee]SSH公钥设置': './get-started/[github][gitee]SSH公钥设置.md'
         - '[ssh][http]传输方式切换': './get-started/[ssh][http]传输方式切换.md'
+        - '[git log]日志查询': './get-started/[git log]日志查询.md'
     - advanced:
         - '绘制分支图': './advanced/绘制分支图.md'
         - '创建裸仓库': './advanced/创建裸仓库.md'
