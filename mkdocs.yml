@@ -66,6 +66,7 @@ nav:
             - 'unicorn出错': './platform/unicorn出错.md'
         - 'GitHub':
             - '版本发布': './platform/[GitHub]版本发布.md'
+            - '[github]DNS加速': './platform/[github]DNS加速.md'
     - 规范:
         - '消息提交准则':
             - '引言': './message/引言.md'
