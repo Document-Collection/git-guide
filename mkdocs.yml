@@ -52,6 +52,7 @@ nav:
         - '远程分支操作': './advanced/远程分支操作.md'
         - '拉取指定远程分支到本地': './advanced/拉取指定远程分支到本地.md'
         - 'Failed to lock refs': './advanced/Failed to lock refs.md'
+        - '远程分支替换本地分支': './advanced/远程分支替换本地分支.md'
     - '托管平台':
         - 'GitLab':
             - '安装': './platform/[GitLab]安装.md'
