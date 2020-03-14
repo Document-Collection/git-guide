@@ -54,6 +54,7 @@ nav:
         - 'Failed to lock refs': './advanced/Failed to lock refs.md'
         - '远程分支替换本地分支': './advanced/远程分支替换本地分支.md'
     - '托管平台':
+        - '代码库大小限制': './platform/代码库大小限制.md'
         - 'GitLab':
             - '安装': './platform/[GitLab]安装.md'
             - '命令行操作': './platform/[GitLab]命令行操作.md'

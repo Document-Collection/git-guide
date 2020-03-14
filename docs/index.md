@@ -5,7 +5,7 @@
 
 * [get started](./get-started/关于版本控制.md)
 * [进阶](./advanced/创建裸仓库.md)
-* [托管平台](./platform/[GitLab]安装.md)
+* [托管平台](./platform/代码库大小限制.md)
 * 规范
     * [消息提交规范](./message/引言.md)
     * [版本提交规范](./version/[SEMVER]语义版本规范.md)
