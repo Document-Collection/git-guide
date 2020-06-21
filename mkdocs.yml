@@ -54,6 +54,7 @@ nav:
         - 'Failed to lock refs': './advanced/Failed to lock refs.md'
         - '远程分支替换本地分支': './advanced/远程分支替换本地分支.md'
         - '为每个项目单独设置用户名和邮箱': './advanced/为每个项目单独设置用户名和邮箱.md'
+        - 'error: RPC failed; curl 56 GnuTLS recv error (-9)': './advanced/error: RPC failed; curl 56 GnuTLS recv error (-9).md'
     - '托管平台':
         - '代码库大小限制': './platform/代码库大小限制.md'
         - 'GitLab':
