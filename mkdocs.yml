@@ -69,6 +69,7 @@ nav:
             - '[GitLab]受保护分支': './platform/[GitLab]受保护分支.md'
             - 'unicorn出错': './platform/unicorn出错.md'
             - '版本更新后database出错': './platform/版本更新后database出错.md'
+            - 'Prometheus吃磁盘空间': './platform/Prometheus吃磁盘空间.md'
         - 'GitHub':
             - '版本发布': './platform/[GitHub]版本发布.md'
             - '[github]DNS加速': './platform/[github]DNS加速.md'
