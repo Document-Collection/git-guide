@@ -1,4 +1,4 @@
-
+# 本仓库不再维护，更新的内容前往：[ZJDoc/GitGuide](https://github.com/ZJDoc/GitGuide)
 # 引言
 
 学习和使用`Git`工具，以及相关的提交规范和托管平台使用等等
@@ -13,7 +13,6 @@
 
 相关文档：
 
-* [github+gitee](https://blog.zhujian.life/posts/ee6c5a93.html)
 * [如何编写好的README](https://blog.zhujian.life/posts/79f69ebe.html)
 * [Git工作流实践](https://blog.zhujian.life/posts/c7ee2f15.html)
     * [[译]GitHub Flow](https://blog.zhujian.life/posts/a20843e9.html)
